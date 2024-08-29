@@ -1,3 +1,3 @@
 # thangaayyanar.github.io
 
-[Sample](sample.org)
+[Sample](sample.md)
